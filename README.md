@@ -24,7 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact)](https://github.com/matheushermes)
 
 </br>
 Estudante de Análise e desenvolvimento de sistemas, sempre buscando novos conhecimentos para minha evolução profissional.
