@@ -8,9 +8,7 @@
 )](mailto:matheus@thprogramador.com)
 
 
-
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushermes&show_icons=true&theme=github_dark)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushermes&show_icons=true&theme=github_dark) <img src="https://i.ibb.co/NTZkwXW/code.gif" width="500px"/>
 
 
 ## Tecnologias usadas no meu dia a dia 👨‍💻
