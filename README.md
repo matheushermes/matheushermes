@@ -8,7 +8,7 @@
 )](mailto:contato@thprogramador.com)
 
 
-<img src="https://i.ibb.co/NTZkwXW/code.gif" width="300px"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact)](https://github.com/matheushermes)
+<img src="https://i.ibb.co/NTZkwXW/code.gif" width="300px"/> 
 
 
 ## Tecnologias usadas no meu dia a dia 👨‍💻
@@ -21,6 +21,8 @@
 </div>
 
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact)](https://github.com/matheushermes)
 
 </br>
 Estudante de Análise e desenvolvimento de sistemas, sempre buscando novos conhecimentos para minha evolução profissional.
