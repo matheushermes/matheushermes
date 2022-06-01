@@ -8,7 +8,7 @@
 )](mailto:contato@thprogramador.com)
 
 
-<img src="https://i.ibb.co/NTZkwXW/code.gif" width="300px"/> 
+<img src="https://i.ibb.co/NTZkwXW/code.gif" width="350px"/> 
 
 
 ## Tecnologias usadas no meu dia a dia 👨‍💻
