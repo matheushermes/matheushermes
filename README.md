@@ -1,18 +1,8 @@
-## Olá! Me chamo Matheus Santos - Developer RPA ✌
+## <p align="center"> Olá! Me chamo Matheus Santos - Developer RPA ✌ </p>
 
-[![Blog](https://img.shields.io/website?label=THProgramador.com&style=for-the-badge&url=https://thprogramador.com/)](https://thprogramador.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thprogramador/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/matheushermes/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:contato@thprogramador.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact&theme=github_dark)](https://github.com/matheushermes)
 
-
-<img src="https://i.ibb.co/NTZkwXW/code.gif" min-width="300px" max-width="300px" width="300px"/> 
-
-## Tecnologias usadas no meu dia a dia 👨‍💻
-
-<div style="display: inline-block"><br/>
+<div style="display: inline-block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,9 +12,16 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 </div>
 
-</br>
+<img src="https://i.ibb.co/K5Gbn4T/ellipse-logo.png" min-width="250px" max-width="250px" width="250px" align="right" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact)](https://github.com/matheushermes)
+## 
+
+[![Blog](https://img.shields.io/website?label=THProgramador.com&style=for-the-badge&url=https://thprogramador.com/)](https://thprogramador.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thprogramador/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/matheushermes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:contato@thprogramador.com)
 
 </br>
 Estudante de Análise e desenvolvimento de sistemas, sempre buscando novos conhecimentos para minha evolução profissional.
