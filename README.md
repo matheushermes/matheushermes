@@ -10,6 +10,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+    </br>
+    </br>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-Automation%20Anywhere-FF8C00?&logo=Probot&labelColor=2e3440&style=for-the-badge&logoColor=FF8C00">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-UiPath-1E90FF?&logo=Probot&labelColor=2e3440&style=for-the-badge&logoColor=1E90FF">
 </div>
 
 <img src="https://i.ibb.co/K5Gbn4T/ellipse-logo.png" min-width="250px" max-width="250px" width="250px" align="right" /> 
