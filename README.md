@@ -28,4 +28,4 @@
 )](mailto:contato@thprogramador.com)
 
 </br>
-Estudante de Análise e desenvolvimento de sistemas, sempre buscando novos conhecimentos para minha evolução profissional.
+Eterno estudante de tecnologia, sempre buscando novos conhecimentos para minha evolução profissional.
