@@ -1,4 +1,4 @@
-## <p align="center"> Olá! Me chamo Matheus Santos - Developer RPA ✌ </p>
+## <p align="center"> Olá! Me chamo Matheus Santos - Software Developer ✌ </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact&theme=github_dark)](https://github.com/matheushermes)
 
@@ -7,7 +7,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
     </br>
