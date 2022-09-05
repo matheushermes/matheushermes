@@ -26,4 +26,4 @@
 )](mailto:contato@thprogramador.com)
 
 </br>
-Eterno estudante de tecnologia, sempre buscando novos conhecimentos para minha evolução profissional.
+Eterno estudante de tecnologia, sempre buscando novos conhecimentos para minha evolução profissional!
