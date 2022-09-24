@@ -14,7 +14,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/-UiPath-1E90FF?&logo=Probot&labelColor=2e3440&style=for-the-badge&logoColor=1E90FF">
 </div>
 
-<img src="https://i.ibb.co/K5Gbn4T/ellipse-logo.png" min-width="250px" max-width="250px" width="250px" align="right" /> 
+<img src="https://i.ibb.co/rp4hms4/Logo-01.png" min-width="250px" max-width="250px" width="250px" align="right" /> 
 
 ## 
 
