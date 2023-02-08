@@ -18,7 +18,7 @@
 
 <img src="https://i.ibb.co/rp4hms4/Logo-01.png" min-width="250px" max-width="250px" width="250px" align="right" />
 
-[![Blog](https://img.shields.io/website?label=THProgramador.com&style=for-the-badge&url=https://thprogramador.com/)](https://thprogramador.com.br/bio/)
+[![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://thprogramador.com/)](https://thprogramador.com.br/bio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thprogramador/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/matheushermes/)
