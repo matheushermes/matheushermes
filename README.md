@@ -14,8 +14,6 @@
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact&bg_color=00000000&text_color=FFFF)](https://github.com/matheushermes)
-
 <img src="https://i.ibb.co/rp4hms4/Logo-01.png" min-width="250px" max-width="250px" width="250px" align="right" />
 
 [![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://thprogramador.com/)](https://thprogramador.com.br/bio/)
