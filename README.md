@@ -25,5 +25,3 @@
 
 </br>
 Eterno estudante de tecnologia, sempre buscando novos conhecimentos para minha evolução profissional! <br/>
-
-Atualmente estudando ReactJS
