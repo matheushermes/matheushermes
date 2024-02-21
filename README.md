@@ -14,7 +14,8 @@
 
 ## 
 
-<img src="https://i.ibb.co/rp4hms4/Logo-01.png" min-width="250px" max-width="250px" width="250px" align="right" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushermes&layout=compact&theme=dracula)
+<img src="https://i.ibb.co/rp4hms4/Logo-01.png" min-width="150px" max-width="150px" width="150px" align="right" />
 
 [![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://thprogramador.com/)](https://thprogramador.com.br/bio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thprogramador/)
