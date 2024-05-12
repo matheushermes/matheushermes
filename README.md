@@ -25,4 +25,4 @@
 )](mailto:contato@thprogramador.com)
 
 </br>
-Eterno estudante de tecnologia, sempre buscando novos conhecimentos para minha evolução profissional! <br/>
+Sou um profissional dedicado e ávido por conhecimento na área de tecnologia, comprometido com minha constante evolução e aprimoramento.<br/>
